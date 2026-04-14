@@ -1,0 +1,24 @@
+#            ═══════                                                      
+#           /XXXXXXX\ ═══                                                 
+#         //XXXXXXXX \XXX\                                                
+#        /XXXXXXXXXXXXXXX \                                               
+#    ═══XXXX| XXXXXXX| XXXXX\                                             
+#   XXXXXXXX|XXXXXXXX| XXXXXX\                          /═════\           
+#  /XXXX\XX |XXXXXXXX| XXXXXX\                       /-/-XXXXX\\-         
+# /XXXXX \ /  XXXXXX /  XXXXXX\                   /-/XXXXXXXXXXXX\        
+#  \XXX /-║   XXXX //   XXXXXX|                  /XXXXXXXXXXXXX/XX\       
+#   \══/  ║ XXXXX-/     XXXX--/                 / XXXXXXXXXXXX/ XXX\════  
+#         ║ XXXXXXXX----XXX/-/\ /══/══\        ║ XXXXX XXXXXXXX\XXX/XXXX\ 
+#         ║ XX   XXX      /═══ \ -- -- |       ║XXXXXX  XXXXXX  \  |XXXXX\
+#         \ XX--\XXX//═══\ │XX│ │XX│XX│|      /║XXXXXXXX XXXXXXX|══\XXXXX/
+#          \     \X//│XX│| │XX│ │XX│XX│//══\ ══\═══-XXXX XXXXXX  ║  \═══/ 
+#          \\XX /-\/ │XX│/  ──   ── ──/|│XX││XX│\/══\ ═══  XXXXX ║        
+#           \\ / /    ──/  -- / --/  / |│XX││XX│|│XX│/───\ XXXXX ║        
+#           \       -- / --- /   / -/  \ ── \── |│XX││XXX│\ --   ║        
+#            \    --- /     /   /---    \|   \   \-- │XXX│ \  \  ║        
+#             \      \     /   /         \   \    \   ───   \-  |║        
+#              \    / \   /   /           \   \   |    \    | \ /         
+#               ════   ═══ ═══            \   \   \     \      /          
+#                                          \   \   \     \    /           
+#                                           ══\|   \     /   /            
+#                                              ════ \═══/ ═══             
